@@ -57,8 +57,24 @@ This project provides understanding on how data works by using Microsoft Azure e
 
 **DATA ANALYTICS USING AZURE SYNAPSE ANALYTICS:**
 -----------------------------------------------------------
+1. Setting "Lake Database" to create a Database.
+2. By using Azure Synapse, it can auto detect the data format by looking back to the dataset ingested.
+3. Create SQL script for data observation.
+4. In the SQL Query section will also provide chart for better understanding of the query.
+
+<p align="left">
+<img width="500" alt="Synapse SQL" src="https://github.com/naqibzainal/DE_ENDTOEND_TOKYOOLYMPICANALYTIC/assets/126558710/fc94be29-6526-4f47-97c4-9eee1bacf282">
+</p>
+
+<p align="left">
+<img width="500" alt="Synapse Chart" src="https://github.com/naqibzainal/DE_ENDTOEND_TOKYOOLYMPICANALYTIC/assets/126558710/bf96cb40-988d-4c1b-bcf6-7e4e92bf495e">
+</p>
 
 
+**DASHBOARD BY USING TABLEAU:**
+-----------------------------------------------------------
+1. Cleaned and tranformed dataset can be download from the container
+2. Dataset ingested to the Tableau for more better visual insight.
 
 
 
