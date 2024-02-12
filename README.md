@@ -1,13 +1,15 @@
 # END-TO-END DATA ENGINEERING WITH AZURE: TOKYO OLYMPIC 2021 DATASET
 
-<p align="Left">
-  <img src="https://github.com/naqibzainal/DE_ENDTOEND_TOKYOOLYMPICANALYTIC/blob/main/DE%20Azure%20end%20to%20end%20analytic.png" alt="Alt Text" width="700" />
-</p>
-
 
 **PROJECT DESCRIPTION:**
 -----------------------------------------------------------
 This project provides understanding on how data works by using Microsoft Azure ecosystem and ends it as dasboard insight for analytics purpose by using Tableau.
+
+**PROJECT ARCHITECTURE:**
+-----------------------------------------------------------
+<p align="Left">
+  <img src="https://github.com/naqibzainal/DE_ENDTOEND_TOKYOOLYMPICANALYTIC/blob/main/DE%20Azure%20end%20to%20end%20analytic.png" alt="Alt Text" width="700" />
+</p>
 
 
 **MICROSOFT AZURE SERVICES USED:**
