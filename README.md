@@ -1,4 +1,4 @@
-# END-TO-END DATA ENGINEERING WITH AZURE: TOKYO OLYMPIC 2021 DATASET
+ # END-TO-END DATA ENGINEERING WITH AZURE: TOKYO OLYMPIC 2021 DATASET
 
 
 **PROJECT DESCRIPTION:**
@@ -79,7 +79,8 @@ This project provides understanding on how data works by using Microsoft Azure e
 2. Dataset ingested to the Tableau for more better visual insight.
 
 <p align="left">
-<img width="500" alt="https://github.com/naqibzainal/DE_ENDTOEND_TOKYOOLYMPICANALYTIC/assets/126558710/877b1f3c-6624-45cc-ad65-c865011b60d1">
+<img width="500" alt="Synapse Chart" 
+src="https://github.com/naqibzainal/DE_ENDTOEND_TOKYOOLYMPICANALYTIC/assets/126558710/877b1f3c-6624-45cc-ad65-c865011b60d1">
 </p>
 
 
